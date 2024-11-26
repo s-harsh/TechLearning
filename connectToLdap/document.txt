@@ -1,0 +1,9 @@
+Featured Function: connectToLdap
+Purpose:
+A dynamic and versatile function to handle LDAP and LDAPS connections with optional support for bypassing SSL/TLS certificate validation. This function simplifies connecting to LDAP servers, whether in production (with strict validation) or in testing environments (with relaxed security).
+
+Use Cases:
+
+Connect securely to LDAP servers in production environments.
+Debug or test LDAP server configurations by bypassing certificate checks.
+Simplify and centralize LDAP connection logic for diverse projects.
